@@ -1,0 +1,21 @@
+{
+  "O1" : {
+    "customer" : {
+      "email" : "john@smith.com",
+      "id" : "C1",
+      "name" : "John Smith"
+    },
+    "payment" : {
+      "cvc" : 222,
+      "exp_month" : "02",
+      "exp_year" : 2020,
+      "number" : 4000056655665556,
+      "object" : "card"
+    },
+    "product" : {
+      "ID" : "I1",
+      "name" : "Item",
+      "price" : 3.99
+    }
+  }
+}
