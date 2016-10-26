@@ -2,6 +2,6 @@
 
 ## Setup
 
-* Get firebase cred into json
-* Get stripe api key
-* Import order data from json file
+* Get firebase cred into json -- private key needed
+* Get Stripe api test key
+* Import order data from json file echo-data
