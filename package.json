@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase": "^3.5.0"
+    "firebase": "^3.5.0",
+    "stripe": "^4.12.0"
   }
 }
